@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\andre\OneDrive\Documents\ASPProjects\BethanysPieShop
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/andre/OneDrive/Documents/ASPProjects/BethanysPieShop/Views/Pie/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/andre/OneDrive/Documents/ASPProjects/BethanysPieShop/Views/Pie/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
